@@ -1,8 +1,8 @@
 <?php 
 session_start();
 // Database
-$host = 'localhost';
-$user = 'imk';
+$host = 'ftp://eltax.id';
+$user = 'u409427070';
 $password = 'Psm270860#';
 $dbname = 'u409427070_imk';
 
