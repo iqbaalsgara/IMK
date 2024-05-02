@@ -2,9 +2,9 @@
 session_start();
 // Database
 $host = 'localhost';
-$user = 'root';
-$password = '';
-$dbname = 'imk';
+$user = 'imk';
+$password = 'Psm270860#';
+$dbname = 'u409427070_imk';
 
 $conn = mysqli_connect($host, $user, $password, $dbname);
 
